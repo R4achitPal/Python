@@ -1,2 +1,1 @@
-# Python
-Python Tutorial
+Python Tutorials!
